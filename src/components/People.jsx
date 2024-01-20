@@ -14,7 +14,7 @@ export default function People({ people, setPeople }) {
           )}
         </div>
         <div className='absolute w-4 top-11 left-4'>
-          <img className='w-full' src='/public/images/icon-person.svg' />
+          <img className='w-full' src='/images/icon-person.svg' />
         </div>
         <input
           className={`px-3 py-2 text-2xl text-right rounded-lg text-QVeryDarkCyan bg-QVerylightGrayishCyan border  

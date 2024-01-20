@@ -6,7 +6,7 @@ export default function Bill({ bill, setBill }) {
           Bill
         </label>
         <div className='absolute w-4 top-11 left-4'>
-          <img className='w-full' src='/public/images/icon-dollar.svg' />
+          <img className='w-full' src='/images/icon-dollar.svg' />
         </div>
         <input
           className='px-3 py-2 text-2xl text-right rounded-lg text-QVeryDarkCyan bg-QVerylightGrayishCyan focus:outline-QStrongCyan'
